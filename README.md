@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on the Blockchain space and learning new things everyday. 
 
-- :japanese_castle: Working in the Keyko dōjō
+- :japanese_castle: Working in the Keyko dōjō. [Keyko GmbH](https://github.com/keyko-io) - [website](https://keyko.io)
 
 - :trophy: I’ve 5+ years of experience working with Big Data technologies and programming in different languages.
 
